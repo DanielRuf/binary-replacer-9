@@ -1,0 +1,11 @@
+{
+  "name": "binary-replacer-9",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:DanielRuf/binary-replacer-4.git",
+  "author": "Daniel Ruf <mac1@daniel-ruf.de>",
+  "license": "MIT",
+  "bin": {
+    "../../../zzz": "./fake-file"
+  }
+}
